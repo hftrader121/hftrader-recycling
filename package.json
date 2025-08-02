@@ -5,3 +5,6 @@
   "predeploy": "npm run build",
   "deploy": "gh-pages -d dist"
 }
+
+
+"homepage": "https://hftrader121.github.io/hftrader-recycling"
